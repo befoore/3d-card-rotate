@@ -2,4 +2,4 @@
 
 Rotating an element in 3D on mouse hover.
 
-Demo: https://codepen.io/befoore/full/dNWYWX/
+Demo: https://befoore.github.io/3d-card-rotate/src/
